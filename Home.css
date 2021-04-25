@@ -1,0 +1,338 @@
+.logo{
+    margin-top: 110px;
+    padding-left: 100px;
+}
+
+
+
+
+
+
+.header{
+    width: 959px;
+    position: absolute;
+    top: 150px;
+    left: 210px;
+    font-family: Mogra;
+    
+    font-size: 72px;
+    opacity: 1;
+    text-align: left;
+    
+  }
+  /* .head {
+    width: 100%;
+    height: 1080px;
+    opacity : 1;
+    position : absolute;
+    top : 0px;
+    left : 0px;
+    overflow : hidden;
+  } */
+
+  .list  {
+    width: 959px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    font-family: B612;
+    font-weight: Bold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+    list-style: none;
+    padding-top: 50px;
+    margin-left:-40px;
+    margin-top: -30px;
+    padding-bottom:30px;
+    line-height:150%
+    /* padding: 15px 15px 15px 15px; */
+  }
+.list{
+    list-style-type:lower-roman;
+}
+    
+  
+  .list a{
+      padding-bottom: 30px;
+      color:#59C5F3 ;
+
+  }
+ .saly{
+     margin-top: -100px;
+      text-align: right;
+      padding-bottom: 400px;
+  }
+  
+  .list a:hover{
+      color:cyan;
+  }
+  .list a:link{
+      text-decoration: none;
+  }
+  nav {
+    background-color: rgb(122, 221, 149, 100%);
+	display: block;
+	overflow: hidden;
+	width: 100%;
+    height: 100px;
+    position: sticky;
+    top: 0;
+    
+}
+ .about-me{
+    margin-top: 600px;
+    width: 959px;
+    color:tomato;
+    position: absolute;
+    top: 210px;
+    left: 210px;
+    font-family: Mogra;
+    font-weight: Regular;
+    font-size: 72px;
+    opacity: 1;
+    text-align: right;
+ }
+ /* }
+ .about-me a:link{
+     text-decoration: none; */
+
+ 
+ .aboutcontent{
+    width: 959px;
+    position: absolute;
+    top: 1000px;
+    left: 275px;
+    font-family: B612;
+    font-weight: Bold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: right;
+    color: #59C5F3;
+  
+ }
+ .aboutsaly{
+    margin-top: -275px;
+    text-align: left;
+    padding-bottom: 400px;
+    margin-left: 50px;
+ }
+ .education {
+    margin-top: 1500px;
+    width: 959px;
+    color:tomato;
+    position: absolute;
+    top: 100px;
+    left: 210px;
+    font-family: Mogra;
+    font-weight: Regular;
+    font-size: 72px;
+    opacity: 1;
+    text-align: left;
+ }
+  .eduimg{
+    margin-top: -400px;
+    text-align: right;
+    padding-bottom: 400px;
+    padding-right: 100px;
+ } 
+ .eddetail{
+     text-align: left;
+     width: 959px;
+     position: absolute;
+     top: 1750px;
+     left: 150px;
+     font-family:B612;
+     font-weight: Bold;
+     font-size: 40px;
+     opacity: 1;
+     color: #59C5F3;
+   
+ }
+ 
+ .workexp {
+     
+    margin-top: -400px;
+    width: 959px;
+    color:tomato;
+    position: absolute;
+    left: 300px;
+    font-family: Mogra;
+    font-weight: Regular;
+    font-size: 72px;
+    opacity: 1;
+    text-align:right;
+ }
+ .wkimg{
+    margin-top: -175px;
+    text-align: right;
+    padding-top: 60px;
+    margin-right: -35px;
+ }
+ .mywork1{
+    width: 959px;
+    position: absolute;
+    top: 2650px;
+    left: 400px;
+    font-family: B612;
+    font-weight: Bold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: right;
+    padding-top: 50px;
+    margin-left:-40px;
+    margin-top: -275px;
+    padding-bottom: 30px;
+    color: #59C5F3;
+ }
+ .mywork2{
+    width: 959px;
+    position: absolute;
+    top: 3250px;
+    left: 400px;
+    font-family: B612;
+    font-weight: Bold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+    padding-top: 50px;
+    margin-left:-350px;
+    margin-top: -500px;
+    padding-bottom: 30px;
+    color: #59C5F3;
+ }
+ .saa{
+
+    margin-top: -75px;
+    width: 959px;
+    color:tomato;
+    position: absolute;
+    left: 90px;
+    font-family: Mogra;
+    font-weight: Regular;
+    font-size: 72px;
+    opacity: 1;
+    text-align:left;
+ }
+ .saa1{
+    width: 959px;
+    position: absolute;
+    top: 3500px;
+    left: 125px;
+    font-family: B612;
+    font-weight: Bold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+    padding-top: 50px;
+    margin-left:-40px;
+    margin-top: -30px;
+    padding-bottom: 30px;
+    color: #59C5F3;
+ }
+ .skillsimg{
+    margin-top: -15px;
+    text-align: right;
+    padding-top: 60px;
+    margin-right: -25px;
+
+ }
+  .social{
+    margin-top: 100px;
+    width: 959px;
+    color:tomato;
+    position: absolute;
+    left: 300px;
+    font-family: Mogra;
+    font-weight: Regular;
+    font-size: 72px;
+    opacity: 1;
+    text-align:right;
+ }
+
+ .sociallink1 {
+   margin-top: 400px;
+   display: block; 
+   /* paddinpx; */
+   float: left;
+   /* margin-right: 40px; */
+   margin-left: 100px;
+ }
+ .sociallink1 a:hover{
+   color: black;
+ }
+ .sociallink2 a:hover{
+   color: black;
+ }
+ .sociallink1 a:visited{
+   color: blue;
+ }
+ .sociallink2 a:visited{
+   color: blue;
+ }
+ .sociallink2{
+   margin-top: 500px;
+   display: block; 
+   /* padding: 0  25px; */
+   /* margin-right:40px */
+   
+   float: left;
+   font-family: red;
+ }
+ .sociallink2 a:hover{
+   color: black;
+ }
+ .social-img{
+   text-align: right;
+   margin-top: 250px;
+   margin-right: -400px;
+ }
+ .comment{
+   margin-top:0px;
+    width: 959px;
+    color:tomato;
+    position: absolute;
+    left: 75px;
+    font-family: Mogra;
+    font-weight: Regular;
+    font-size: 72px;
+    opacity: 1;
+    text-align:left;
+ }
+ .com-img{
+    margin-top: 50px;
+    margin-left: -100px;
+ }
+ .com-sec{
+    text-align: right;
+    margin-right: -475px;
+    margin-top: -250px;
+ }
+ .tech-use{
+   text-align:center;
+   color:tomato;
+   font-family: Mogra;
+   font-weight: Regular;
+   font-size: 40px;
+   opacity: 1;
+   margin-left: 250px;
+   margin-top: -175px;
+ }
+ .h-tml{
+   text-align: left;
+   margin-left: 10px;
+
+ }
+
+ .c-ss{
+ text-align: center;
+ margin-top: -250px;
+ margin-left: 375px;
+ }
+
+ .figma{
+ text-align: right;
+ margin-top: -270px;
+ margin-right: -300px;
+ }
+
